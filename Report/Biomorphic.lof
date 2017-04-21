@@ -1,0 +1,30 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces POWER GLOVES}}{9}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Arduino Logo}}{9}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Breakout Board for Arduino-XBEE Interfacing}}{10}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Arduino UNO Board}}{11}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Arduino 1.0.1 IDE}}{12}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Basic System Structure}}{15}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Sensor Values}}{16}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Fully Extended Sensor Values}}{16}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Sensor Values when fingers at various positions}}{17}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Circuit For Sensor Value Range Determination}}{17}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Transmitter Side Schematic}}{18}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Receiver Side Schematic}}{19}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Transmitter Side layout}}{19}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Receiver Side layout}}{20}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Etching Process}}{21}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Sensor Value Determination}}{23}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Servo Motor}}{24}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Servo Motor Connecton Diagram}}{24}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces XBEE Modules}}{25}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Entering Command Mode}}{31}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Configuring XBEE Modules}}{32}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces XBEE Connection In Configuration Mode}}{32}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces XBEE Connection In Communication Mode}}{33}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

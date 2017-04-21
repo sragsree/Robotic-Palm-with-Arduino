@@ -1,0 +1,1181 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.3.9)  11 MAR 2013 12:08
+entering extended mode
+**Biomorphic.tex
+("E:\Biomorphic Palm\REPORT\Biomorphic.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
+, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
+ian, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
+ kannada, kurmanji, lao, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ng
+erman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, s
+lovenian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishm
+ax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks16
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen113
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen114
+\subfiglabelskip=\skip46
+\c@subfigure=\count92
+\c@lofdepth=\count93
+\c@subtable=\count94
+\c@lotdepth=\count95
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+) ("E:\Biomorphic Palm\REPORT\Biomorphic.aux"
+
+LaTeX Warning: Label `fig12' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen115
+\scratchbox=\box26
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen116
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks18
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for OT1+bch on input line 16.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1bch.fd"
+File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+)
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 		\\
+         minip/ece@nssce/1014/23.28\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<logo.png, id=1, 127.22531pt x 131.74219pt>
+File: logo.png Graphic file (type png)
+ <use logo.png>
+Package pdftex.def Info: logo.png used on input line 47.
+(pdftex.def)             Requested size: 101.78038pt x 105.39388pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <E:/Biomorphic Palm/REPORT/logo.png>]
+File: logo.png Graphic file (type png)
+ <use logo.png>
+Package pdftex.def Info: logo.png used on input line 63.
+(pdftex.def)             Requested size: 108.14201pt x 111.98137pt.
+
+! Too many }'s.
+l.68 \end{center}}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 \vspace
+            {3.0cm}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Overfull \hbox (4.51668pt too wide) in paragraph at lines 85--86
+[]\OT1/cmr/m/n/12 We would like to ex-press our deep sense of grat-i-tude to our project guide Prof.Asha
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.94 \end{flushright}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[2]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
+
+ []
+
+[3] ("E:\Biomorphic Palm\REPORT\Biomorphic.toc"
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [4
+
+])
+\tf@toc=\write3
+ [5] ("E:\Biomorphic Palm\REPORT\Biomorphic.lof")
+\tf@lof=\write4
+
+[6
+
+]
+Chapter 1.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no Ô in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+Missing character: There is no Å in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+[7
+
+]
+Chapter 2.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 E
+       ven though the idea and principle behind this biomorphic system is si...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+<fig1.png, id=33, 770.88pt x 578.16pt>
+File: fig1.png Graphic file (type png)
+ <use fig1.png>
+Package pdftex.def Info: fig1.png used on input line 150.
+(pdftex.def)             Requested size: 385.43906pt x 289.07928pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+<fig2.png, id=37, 136.25906pt x 98.61844pt>
+File: fig2.png Graphic file (type png)
+ <use fig2.png>
+Package pdftex.def Info: fig2.png used on input line 160.
+(pdftex.def)             Requested size: 136.25871pt x 98.61818pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.162 \end
+          {figure}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+[9 <E:/Biomorphic Palm/REPORT/fig1.png> <E:/Biomorphic Palm/REPORT/fig2.png>]
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+
+ []
+
+<Breakoutboard.png, id=41, 198.9834pt x 172.9662pt>
+File: Breakoutboard.png Graphic file (type png)
+ <use Breakoutboard.png>
+Package pdftex.def Info: Breakoutboard.png used on input line 171.
+(pdftex.def)             Requested size: 198.98291pt x 172.96577pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.173 \end
+          {figure}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+[10 <E:/Biomorphic Palm/REPORT/Breakoutboard.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+<fig3.png, id=45, 602.25pt x 429.10312pt>
+File: fig3.png Graphic file (type png)
+ <use fig3.png>
+Package pdftex.def Info: fig3.png used on input line 183.
+(pdftex.def)             Requested size: 391.45786pt x 278.91371pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+[11 <E:/Biomorphic Palm/REPORT/fig3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+<fig4.png, id=49, 365.86688pt x 446.41782pt>
+File: fig4.png Graphic file (type png)
+ <use fig4.png>
+Package pdftex.def Info: fig4.png used on input line 196.
+(pdftex.def)             Requested size: 237.81065pt x 290.16814pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 201.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 201.
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--209
+
+ []
+
+[12 <E:/Biomorphic Palm/REPORT/fig4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+
+ []
+
+[13]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+[14
+
+] <block1.png, id=61, 316.18124pt x 160.34906pt>
+File: block1.png Graphic file (type png)
+ <use block1.png>
+Package pdftex.def Info: block1.png used on input line 237.
+(pdftex.def)             Requested size: 442.65071pt x 224.48714pt.
+
+Overfull \hbox (15.85936pt too wide) in paragraph at lines 237--238
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+<fig5-graph.png, id=62, 572.1375pt x 332.74312pt>
+File: fig5-graph.png Graphic file (type png)
+ <use fig5-graph.png>
+Package pdftex.def Info: fig5-graph.png used on input line 248.
+(pdftex.def)             Requested size: 429.10207pt x 249.55672pt.
+
+Overfull \hbox (2.31071pt too wide) in paragraph at lines 248--248
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<fig6-stickgraph.png, id=63, 570.63188pt x 331.99031pt>
+File: fig6-stickgraph.png Graphic file (type png)
+ <use fig6-stickgraph.png>
+Package pdftex.def Info: fig6-stickgraph.png used on input line 253.
+(pdftex.def)             Requested size: 427.97287pt x 248.99211pt.
+
+Overfull \hbox (1.18152pt too wide) in paragraph at lines 253--253
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<fig7-stickgraph2.png, id=64, 569.87906pt x 332.74312pt>
+File: fig7-stickgraph2.png Graphic file (type png)
+ <use fig7-stickgraph2.png>
+Package pdftex.def Info: fig7-stickgraph2.png used on input line 258.
+(pdftex.def)             Requested size: 427.40823pt x 249.55672pt.
+
+Overfull \hbox (0.61688pt too wide) in paragraph at lines 258--258
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+
+ []
+
+[15 <E:/Biomorphic Palm/REPORT/block1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+
+ []
+
+<fig8.png, id=68, 376.40625pt x 149.05687pt>
+File: fig8.png Graphic file (type png)
+ <use fig8.png>
+Package pdftex.def Info: fig8.png used on input line 271.
+(pdftex.def)             Requested size: 282.30399pt x 111.79237pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+
+ []
+
+[16 <E:/Biomorphic Palm/REPORT/fig5-graph.png> <E:/Biomorphic Palm/REPORT/fig6-stickgraph.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+
+ []
+
+[17 <E:/Biomorphic Palm/REPORT/fig7-stickgraph2.png> <E:/Biomorphic Palm/REPORT/fig8.png>]
+<flexschem.jpg, id=75, 1075.217pt x 489.027pt>
+File: flexschem.jpg Graphic file (type jpg)
+ <use flexschem.jpg>
+Package pdftex.def Info: flexschem.jpg used on input line 287.
+(pdftex.def)             Requested size: 430.07918pt x 195.60732pt.
+
+Overfull \hbox (3.28783pt too wide) in paragraph at lines 287--287
+ [][] 
+ []
+
+<servo2.jpg, id=76, 856.801pt x 639.188pt>
+File: servo2.jpg Graphic file (type jpg)
+ <use servo2.jpg>
+Package pdftex.def Info: servo2.jpg used on input line 292.
+(pdftex.def)             Requested size: 428.39944pt x 319.59322pt.
+
+Overfull \hbox (1.6081pt too wide) in paragraph at lines 292--292
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18 <E:/Biomorphic Palm/REPORT/flexschem.jpg>] <handside.png, id=81, 190.311pt x 135.8676pt>
+File: handside.png Graphic file (type png)
+ <use handside.png>
+Package pdftex.def Info: handside.png used on input line 299.
+(pdftex.def)             Requested size: 190.31052pt x 135.86725pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.302 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<motorside.png, id=83, 130.086pt x 167.1846pt>
+File: motorside.png Graphic file (type png)
+ <use motorside.png>
+Package pdftex.def Info: motorside.png used on input line 304.
+(pdftex.def)             Requested size: 130.08566pt x 167.18417pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<DSC_0118.jpg, id=84, 2601.72pt x 1951.29pt>
+File: DSC_0118.jpg Graphic file (type jpg)
+ <use DSC_0118.jpg>
+Package pdftex.def Info: DSC_0118.jpg used on input line 313.
+(pdftex.def)             Requested size: 208.14185pt x 156.10638pt.
+ <DSC_0143.jpg, id=85, 2601.72pt x 1951.29pt>
+File: DSC_0143.jpg Graphic file (type jpg)
+
+<use DSC_0143.jpg>
+Package pdftex.def Info: DSC_0143.jpg used on input line 313.
+(pdftex.def)             Requested size: 208.14185pt x 156.10638pt.
+
+Overfull \hbox (5.15884pt too wide) in paragraph at lines 313--314
+ [][] 
+ []
+
+<DSC_0147.jpg, id=86, 2601.72pt x 1951.29pt>
+File: DSC_0147.jpg Graphic file (type jpg)
+ <use DSC_0147.jpg>
+Package pdftex.def Info: DSC_0147.jpg used on input line 319.
+(pdftex.def)             Requested size: 208.14185pt x 156.10638pt.
+ <DSC_0148.jpg, id=87, 2601.72pt x 1951.29pt>
+File: DSC_0148.jpg Graphic file (type jpg)
+
+<use DSC_0148.jpg>
+Package pdftex.def Info: DSC_0148.jpg used on input line 319.
+(pdftex.def)             Requested size: 208.14185pt x 156.10638pt.
+
+Overfull \hbox (5.15884pt too wide) in paragraph at lines 319--320
+ [][] 
+ []
+
+<DSC_0126.jpg, id=88, 2601.72pt x 1951.29pt>
+File: DSC_0126.jpg Graphic file (type jpg)
+ <use DSC_0126.jpg>
+Package pdftex.def Info: DSC_0126.jpg used on input line 325.
+(pdftex.def)             Requested size: 208.14185pt x 156.10638pt.
+ <DSC_0128.jpg, id=89, 2601.72pt x 1951.29pt>
+File: DSC_0128.jpg Graphic file (type jpg)
+
+<use DSC_0128.jpg>
+Package pdftex.def Info: DSC_0128.jpg used on input line 325.
+(pdftex.def)             Requested size: 208.14185pt x 156.10638pt.
+
+Overfull \hbox (5.15884pt too wide) in paragraph at lines 325--326
+ [][] 
+ []
+
+<DSC_0129.jpg, id=90, 2601.72pt x 1951.29pt>
+File: DSC_0129.jpg Graphic file (type jpg)
+ <use DSC_0129.jpg>
+Package pdftex.def Info: DSC_0129.jpg used on input line 331.
+(pdftex.def)             Requested size: 208.14185pt x 156.10638pt.
+ <DSC_0170.jpg, id=91, 2601.72pt x 1951.29pt>
+File: DSC_0170.jpg Graphic file (type jpg)
+
+<use DSC_0170.jpg>
+Package pdftex.def Info: DSC_0170.jpg used on input line 331.
+(pdftex.def)             Requested size: 208.14185pt x 156.10638pt.
+
+Overfull \hbox (5.15884pt too wide) in paragraph at lines 331--332
+ [][] 
+ []
+
+<DSC_0174.jpg, id=92, 2601.72pt x 1951.29pt>
+File: DSC_0174.jpg Graphic file (type jpg)
+ <use DSC_0174.jpg>
+Package pdftex.def Info: DSC_0174.jpg used on input line 337.
+(pdftex.def)             Requested size: 208.14185pt x 156.10638pt.
+ <DSC_0177.jpg, id=93, 2601.72pt x 1951.29pt>
+File: DSC_0177.jpg Graphic file (type jpg)
+
+<use DSC_0177.jpg>
+Package pdftex.def Info: DSC_0177.jpg used on input line 337.
+(pdftex.def)             Requested size: 208.14185pt x 156.10638pt.
+
+Overfull \hbox (5.15884pt too wide) in paragraph at lines 337--338
+ [][] 
+ []
+
+[19 <E:/Biomorphic Palm/REPORT/servo2.jpg> <E:/Biomorphic Palm/REPORT/handside.png>] [20 <E:/Biomorphic Palm/REPORT/moto
+rside.png> <E:/Biomorphic Palm/REPORT/DSC_0118.jpg> <E:/Biomorphic Palm/REPORT/DSC_0143.jpg> <E:/Biomorphic Palm/REPORT/
+DSC_0147.jpg> <E:/Biomorphic Palm/REPORT/DSC_0148.jpg>] [21 <E:/Biomorphic Palm/REPORT/DSC_0126.jpg> <E:/Biomorphic Palm
+/REPORT/DSC_0128.jpg> <E:/Biomorphic Palm/REPORT/DSC_0129.jpg> <E:/Biomorphic Palm/REPORT/DSC_0170.jpg> <E:/Biomorphic P
+alm/REPORT/DSC_0174.jpg> <E:/Biomorphic Palm/REPORT/DSC_0177.jpg>]
+Chapter 4.
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no ∫ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
+
+ []
+
+<fig9.png, id=105, 301.125pt x 377.15906pt>
+File: fig9.png Graphic file (type png)
+ <use fig9.png>
+Package pdftex.def Info: fig9.png used on input line 347.
+(pdftex.def)             Requested size: 301.12425pt x 377.15814pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[22
+
+]
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
+
+ []
+
+<fig10.png, id=109, 478.03593pt x 377.15906pt>
+File: fig10.png Graphic file (type png)
+ <use fig10.png>
+Package pdftex.def Info: fig10.png used on input line 357.
+(pdftex.def)             Requested size: 310.71967pt x 245.15048pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+
+ []
+
+<servo.jpg, id=110, 413.87613pt x 144.91252pt>
+File: servo.jpg Graphic file (type jpg)
+ <use servo.jpg>
+Package pdftex.def Info: servo.jpg used on input line 364.
+(pdftex.def)             Requested size: 351.79636pt x 123.17621pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[23 <E:/Biomorphic Palm/REPORT/fig9.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+
+ []
+
+[24 <E:/Biomorphic Palm/REPORT/fig10.png> <E:/Biomorphic Palm/REPORT/servo.jpg>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
+
+ []
+
+<fig11.png, id=118, 602.25pt x 398.99063pt>
+File: fig11.png Graphic file (type png)
+ <use fig11.png>
+Package pdftex.def Info: fig11.png used on input line 378.
+(pdftex.def)             Requested size: 391.45786pt x 259.34084pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
+
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--388
+
+ []
+
+[25 <E:/Biomorphic Palm/REPORT/fig11.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--394
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--396
+
+ []
+
+
+Overfull \hbox (51.57759pt too wide) in paragraph at lines 401--417
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--422
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--468
+
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 469--470
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
+
+ []
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 475.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/bx/n' in size <12> not available
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 475.
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--476
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--498
+
+ []
+
+[30]
+Chapter 5.
+<xbeeconfig.png, id=139, 706.64pt x 486.81876pt>
+File: xbeeconfig.png Graphic file (type png)
+ <use xbeeconfig.png>
+Package pdftex.def Info: xbeeconfig.png used on input line 511.
+(pdftex.def)             Requested size: 459.31056pt x 316.42844pt.
+
+Overfull \hbox (32.51921pt too wide) in paragraph at lines 511--511
+ [][] 
+ []
+
+<first_xbee.png, id=140, 221.82875pt x 315.1775pt>
+File: first_xbee.png Graphic file (type png)
+ <use first_xbee.png>
+Package pdftex.def Info: first_xbee.png used on input line 518.
+(pdftex.def)             Requested size: 166.37114pt x 236.38254pt.
+
+<second_xbee.png, id=141, 225.84375pt x 316.18124pt>
+File: second_xbee.png Graphic file (type png)
+ <use second_xbee.png>
+Package pdftex.def Info: second_xbee.png used on input line 518.
+(pdftex.def)             Requested size: 169.38239pt x 237.13535pt.
+
+<config.jpg, id=142, 417.81094pt x 283.81032pt>
+File: config.jpg Graphic file (type jpg)
+ <use config.jpg>
+Package pdftex.def Info: config.jpg used on input line 523.
+(pdftex.def)             Requested size: 355.14098pt x 241.2399pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<comm.jpg, id=143, 417.81094pt x 283.81032pt>
+File: comm.jpg Graphic file (type jpg)
+ <use comm.jpg>
+Package pdftex.def Info: comm.jpg used on input line 528.
+(pdftex.def)             Requested size: 355.14098pt x 241.2399pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[31
+
+ <E:/Biomorphic Palm/REPORT/xbeeconfig.png>]
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 559.
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--584
+
+ []
+
+[32 <E:/Biomorphic Palm/REPORT/first_xbee.png> <E:/Biomorphic Palm/REPORT/second_xbee.png> <E:/Biomorphic Palm/REPORT/co
+nfig.jpg>] [33 <E:/Biomorphic Palm/REPORT/comm.jpg>]
+! You can't use `macro parameter character #' in vertical mode.
+l.585 #
+       include\\
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--621
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--621
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--621
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--621
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--621
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--621
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--621
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--621
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--621
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--621
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--621
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--621
+
+ []
+
+[34] [35]
+Chapter 6.
+[36
+
+]
+Chapter 7.
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.633 \begin{itemize}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[37
+
+] ("E:\Biomorphic Palm\REPORT\Biomorphic.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2145 strings out of 494045
+ 29712 string characters out of 3148382
+ 87164 words of memory out of 3000000
+ 5386 multiletter control sequences out of 15000+200000
+ 14063 words of font info for 45 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 27i,8n,24p,1249b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/bitstrea/charter
+/bchb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmti12.pfb>
+Output written on Biomorphic.pdf (38 pages, 18625208 bytes).
+PDF statistics:
+ 196 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+
